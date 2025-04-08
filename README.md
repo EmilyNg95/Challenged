@@ -1,2 +1,2 @@
 # Challenged
-My cybersecurity pralactice labs
+My cybersecurity practice labs
